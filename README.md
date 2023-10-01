@@ -3,10 +3,8 @@ E-voting is  an online voting web application developed using React JS and Solid
 
 
 DEVELOPMENT
-→ Frontend:  
- Implemented using ReactJS.​
-→ Backend:
-  Ethereum network is used via Metamask. Solidity is used for implementing smart contracts on the Ethereum platform.
+→ Frontend:  Implemented using ReactJS.​
+→ Backend:  Ethereum network is used via Metamask. Solidity is used for implementing smart contracts on the Ethereum platform.
 
 
 BENEFITS OF USING E-VOTING
