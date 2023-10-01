@@ -23,6 +23,7 @@ BENEFITS OF USING E-VOTING
 → Efficiency​​:
 
   The reduction in organizational and implementation costs significantly increases the​ efficiency of election management compared to traditional paper voting, for example.​​
+  
 ​→ Precision​​:
 
   The electronic vote eliminates errors in manual count, which brings with it​​ an accurate and quick publication of results, with receipt of vote for each vote cast.​
